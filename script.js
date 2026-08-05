@@ -1,4 +1,3 @@
-// Optional existing hello button handler (if present)
 
 // "Import new album" button: open a hidden file picker
 const newAlbumBtn = document.getElementById("newAlbum");

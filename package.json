@@ -1,0 +1,12 @@
+{
+  "name": "neons-album-ranker",
+  "version": "1.0.0",
+  "description": "A website for ranking albums",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
