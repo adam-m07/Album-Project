@@ -1,0 +1,27 @@
+{
+  "name": "pp-album",
+  "version": "1.0.0",
+  "description": "As someone who loves listening to music on a regular, I've always wanted a fun, clever and creative way to have albums be ranked and collected in one place easily, according to different criteria. Instead of just ranking an album out of 10 and manually putting it on a list, I wanted the score to be as accurate as possible and give different types of albums chances to highlight their strengths and weaknesses. Some albums I enjoy based on the story they tell, some by how deep and meaningful the lyrics are, and some by how danceable they are! All these different styles would be hard to give a fair rating that is consistent across, so this was a perfect thing to do for me, combining two of my favourite things!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-m07/Album-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adam-m07/Album-Project/issues"
+  },
+  "homepage": "https://github.com/adam-m07/Album-Project#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2"
+  }
+}
